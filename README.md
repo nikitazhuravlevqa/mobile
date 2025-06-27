@@ -7,3 +7,5 @@
  - [Ссылка](https://docs.google.com/spreadsheets/d/1138AfZme3o4IiQaAb94VQg8V7YlFhonKK3gl-pnTH6Y/edit?gid=1426219084#gid=1426219084)
 ## Прогон тест-кейсов мобильного приложения "shopping-list"
  - [Ссылка](https://github.com/nikitazhuravlevqa/mobile/blob/main/Test-run-mobile.pdf)
+## Отчет по результатам тестирования мобильного приложения "shopping-list"
+ - [Ссылка](https://docs.google.com/document/d/1iZcFl_jLNz5zCotbM_dishtyFwWqwNmjS1Vq1Yhyn88/edit?tab=t.0)
