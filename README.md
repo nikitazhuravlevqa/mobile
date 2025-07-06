@@ -2,12 +2,10 @@
 ## Чек-лист для тестирования мобильного приложения "shopping-list"
  - [Ссылка на таблицу](https://docs.google.com/spreadsheets/d/1GAdM9YgpBDbp_iaUVUjaCF858jp-C3Woh_Dv6PU6Zuc/edit?gid=1526645551#gid=1526645551)
 ## Тест-кейсы для тестирования мобильного приложения "shopping-list"
- - [Ссылка](https://github.com/nikitazhuravlevqa/mobile/blob/main/test-cases-mobile.pdf)
+ - [Ссылка](https://drive.google.com/file/d/1JQAtDUsFQb-MCwPqhpJBc9gXp_yGH5Yn/view?usp=sharing)
 ## Отчеты о дефекте мобильного приложения "shopping-list"
- - [Ссылка](https://docs.google.com/spreadsheets/d/1138AfZme3o4IiQaAb94VQg8V7YlFhonKK3gl-pnTH6Y/edit?gid=1426219084#gid=1426219084)
+ - [Ссылка](https://docs.google.com/spreadsheets/d/1zsv4E3z8dXy4Qr2ehPy2V8SOkg4G_chgNMcs9uXrfhc/edit?gid=379269459#gid=379269459)
 ## Прогон тест-кейсов мобильного приложения "shopping-list"
- - [Ссылка](https://github.com/nikitazhuravlevqa/mobile/blob/main/Test-run-mobile.pdf)
+ - [Ссылка](https://drive.google.com/file/d/1QEJyqivg1_ht4MbNDVpFeY44NGY-rTel/view?usp=sharing)
 ## Отчет по результатам тестирования мобильного приложения "shopping-list"
- - [Ссылка](https://docs.google.com/document/d/1iZcFl_jLNz5zCotbM_dishtyFwWqwNmjS1Vq1Yhyn88/edit?tab=t.0)
-## Перехват и изменение трафика на Iphone
- - [Видео](https://drive.google.com/file/d/1ccNq40V0JTawjaBpRYuq7mmGn-9iKH8v/view?usp=drive_link)
+ - [Ссылка](https://drive.google.com/file/d/1CREg-xs9V8M5MQX--oMMVS9QuZMRy2na/view?usp=sharing)
