@@ -9,3 +9,5 @@
  - [Ссылка](https://github.com/nikitazhuravlevqa/mobile/blob/main/Test-run-mobile.pdf)
 ## Отчет по результатам тестирования мобильного приложения "shopping-list"
  - [Ссылка](https://docs.google.com/document/d/1iZcFl_jLNz5zCotbM_dishtyFwWqwNmjS1Vq1Yhyn88/edit?tab=t.0)
+## Перехват и изменение трафика на Iphone
+ - [Видео](https://drive.google.com/file/d/1ccNq40V0JTawjaBpRYuq7mmGn-9iKH8v/view?usp=drive_link)
